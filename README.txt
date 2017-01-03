@@ -1,0 +1,4 @@
+TODO:
+CVs
+news
+galery
