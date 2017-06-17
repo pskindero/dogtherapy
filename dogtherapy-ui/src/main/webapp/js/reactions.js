@@ -1,6 +1,11 @@
 (function($) { 
 
     $(document).ready(function() {
+      "/home/pskindero/workspace/dogotherapy/gallery.js"
+
+    });
+    
+    $(document).ready(function() {
         $("#expandDogotherapyDefinition").click(function(){
             $("#expandDogotherapyDefinition").hide();
             $("#dogotherapyDefinition").slideDown();
